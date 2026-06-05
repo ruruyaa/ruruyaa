@@ -1,6 +1,8 @@
 ![header](https://github.com/ruruyaa/ruruyaa/blob/main/header.png)
   
 <samp>
+
+𒅒 Node.js | Python | Go 𒅒
   
 I began my coding journey at 13, feeling completely out of my depth. Today, I write my own destiny with my own hands.
 
